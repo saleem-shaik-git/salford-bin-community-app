@@ -1,1 +1,16 @@
+{
+  "postcode": "M5",
+  "collections": [
+    {
+      "binType": "general",
+      "day": "Wednesday",
+      "frequency": "weekly"
+    },
+    {
+      "binType": "recycling",
+      "day": "Friday",
+      "frequency": "bi-weekly"
+    }
+  ]
+}
 
